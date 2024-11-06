@@ -1,0 +1,12 @@
+
+RP2350
+==================
+
+`RaspberryPi <https://www.raspberrypi.com/>`_ : ``Cortex-M33`` ``Dual Core`` ``150MHz`` ``QFN60`` ``MicroPython``
+
+**好芯提示** ： `RP2350 <https://www.raspberrypi.com/products/rp2350>`_ 是一款高性价比通用型MCU
+
+
+.. hint::
+
+    RP2350工程初建
